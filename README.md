@@ -5,7 +5,7 @@ This github contain 2 files.
   - "4IAR_1D1.cpp" is written in C++ languege
 
 References
-[1] AI Gaming. Four in a row. Available at https://help.aigaming.com/game-help/
-four-in-a-row.
-[2] Wikipedia. Conect four. Available at https://en.wikipedia.org/wiki/Connect_
-Four.
+
+[1] AI Gaming. Four in a row. Available at https://help.aigaming.com/game-help/four-in-a-row.
+
+[2] Wikipedia. Conect four. Available at https://en.wikipedia.org/wiki/ConnectFour.
