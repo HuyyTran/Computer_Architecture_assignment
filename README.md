@@ -8,4 +8,4 @@ References
 
 [1] AI Gaming. Four in a row. Available at https://help.aigaming.com/game-help/four-in-a-row.
 
-[2] Wikipedia. Conect four. Available at https://en.wikipedia.org/wiki/ConnectFour.
+[2] Wikipedia. Conect four. Available at [https://en.wikipedia.org/wiki/ConnectFour.](https://en.wikipedia.org/wiki/Connect_Four)
